@@ -57,10 +57,6 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh2kum&show_icons=true&theme=radical" alt="Harsh Kumar's GitHub stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh2kum&layout=compact&theme=radical" width="40%">
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh2kum&theme=radical" alt="Harsh Kumar's GitHub Streak" width="75%">
